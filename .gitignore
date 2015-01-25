@@ -1,3 +1,7 @@
+# Data
+*.txt
+*.dat
+
 # Archives
 *.tar.gz
 
